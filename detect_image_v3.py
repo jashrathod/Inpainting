@@ -201,7 +201,7 @@ def main2():
     # image_path = "test_image.jpeg"
     # image_path = "image.jpg"
     top_left = end_to_end(image_path, DIMINISH_CATEGORY,
-                          'white', 'opencv')
+                          'white', 'stable_diffusion')
     
     print(top_left)
 
